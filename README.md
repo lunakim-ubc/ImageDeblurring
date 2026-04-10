@@ -23,7 +23,7 @@ Deblurring blurred images using Tikhonov regularization and related spectral fil
 
 - `motion_deblur_linear.ipynb` — Linear motion blur and deblurring
 - `colorblurring.ipynb` — Color image blur and deblurring
-- `3D_blur.ipynb` — 3D volumetric blur and deblurring
+- `3D_Blur/3D_blur.ipynb` — 3D volumetric blur and deblurring
 
 ## Usage
 
