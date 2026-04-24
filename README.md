@@ -2,7 +2,7 @@
 
 MATH 441 Project3 — 2025/26 W2
 
-Deblurring blurred images using Tikhonov regularization and related spectral filtering methods (Naive inverse, Truncated SVD). Covers linear motion blur, color image blur, and 3D volumetric blur.
+Image deblurring as an inverse problem, using a unified Tikhonov-FFT pipeline applied to three settings: linear motion blur, color image blur (including cross-channel coupling), and 3D volumetric blur. Naive inverse and Truncated SVD are included as baselines.
 
 ## Authors
 
